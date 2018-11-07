@@ -6,7 +6,7 @@ Resolução da lista de exercícios do curso de Javascript do Starter da [@rocke
 ------------ | ------------ | ------------
 [Exercício 01](https://github.com/marianaviana/starter-javascript/blob/master/Introdu%C3%A7%C3%A3o/01.js) | Exercício 01 | Exercício 01
 [Exercício 02](https://github.com/marianaviana/starter-javascript/blob/master/Introdu%C3%A7%C3%A3o/02.js) | Exercício 02 | Exercício 02
-Exercício 03 | Exercício 03 | Exercício 03
+[Exercício 03](https://github.com/marianaviana/starter-javascript/blob/master/Introdu%C3%A7%C3%A3o/03.js) | Exercício 03 | Exercício 03
 Exercício 04 | Exercício 04	|
 Exercício 05 |
 
