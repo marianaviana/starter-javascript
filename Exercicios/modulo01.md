@@ -1,6 +1,6 @@
 # Exercícios: Módulo 01
 
-## 1º exercício
+## 1º exercício ([solução](https://github.com/marianaviana/starter-javascript/blob/master/Introdu%C3%A7%C3%A3o/01.js))
 
 Crie uma função que dado o objeto a seguir:
 
@@ -20,7 +20,7 @@ Retorne o seguinte conteúdo:
 O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros" com nº 1293.
 ```
 
-## 2º exercício
+## 2º exercício ([solução](https://github.com/marianaviana/starter-javascript/blob/master/Introdu%C3%A7%C3%A3o/02.js))
 
 Crie uma função que dado um intervalo (entre x e y) exiba todos número pares:
 
@@ -32,7 +32,7 @@ function pares(x, y) {
 pares(32, 321);
 ```
 
-## 3º exercício
+## 3º exercício ([solução](https://github.com/marianaviana/starter-javascript/blob/master/Introdu%C3%A7%C3%A3o/03.js))
 
 Escreva uma função que verifique se o vetor de habilidades passado possui a habilidade "Javascript" e retorna um booleano ```true/false``` caso exista ou não.
 
@@ -47,7 +47,7 @@ temHabilidade(skills); // true ou false
 
 _Dica: para verificar se um vetor contém um valor, utilize o método [indexOf](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)._
 
-## 4º exercício
+## 4º exercício ([solução](https://github.com/marianaviana/starter-javascript/blob/master/Introdu%C3%A7%C3%A3o/04.js))
 
 Escreva uma função que dado um total de anos de estudo retorna o quão experiente o usuário é:
 
@@ -65,7 +65,7 @@ experiencia(anosEstudo);
 // De 7 acima: Jedi Master
 ```
 
-## 5º exercício
+## 5º exercício ([solução](https://github.com/marianaviana/starter-javascript/blob/master/Introdu%C3%A7%C3%A3o/05.js))
 
 Dado o seguinte vetor de objetos:
 
