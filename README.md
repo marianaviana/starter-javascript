@@ -1,8 +1,17 @@
 # Starter Javascript
+
+> :warning: **NOTA**: ESTE REPOSITÓRIO ESTÁ EM CONSTRUÇÃO
+
 Resolução da lista de exercícios do curso de Javascript do Starter da [@rocketseat](https://github.com/rocketseat) para colocar os conhecimentos à prova através de desafios, assim garantindo um melhor aproveitamento de todo o conteúdo oferecido.
 
-### Lista de exercícios
-[Módulo 01](https://github.com/marianaviana/starter-javascript/blob/master/Introdu%C3%A7%C3%A3o/exerciciosIntroducao.pdf)    | Módulo 02    | Módulo 03
+### Exercícios
+
+- [Módulo 01](https://github.com/marianaviana/starter-javascript/blob/master/Exercicios/modulo01.md) 
+- Módulo 02
+- Módulo 03
+
+### Lista de respostas
+Módulo 01   | Módulo 02    | Módulo 03
 ------------ | ------------ | ------------
 [Exercício 01](https://github.com/marianaviana/starter-javascript/blob/master/Introdu%C3%A7%C3%A3o/01.js) | Exercício 01 | Exercício 01
 [Exercício 02](https://github.com/marianaviana/starter-javascript/blob/master/Introdu%C3%A7%C3%A3o/02.js) | Exercício 02 | Exercício 02
